@@ -68,14 +68,14 @@ async function handleMessage(body: any) {
   if (textContent.startsWith("音乐 ") || textContent.startsWith("下载 ")) {
     const keyword = textContent.replace(/^(音乐|Download)\s*/, "").trim();
     const results = mockSearch(keyword);
-    replyContent = `🎵 搜索结果: ${keyword}\n\n`;
+    replyContent = `搜索结果: ${keyword}\n\n`;
     results.forEach((r: any, i: number) => {
-      replyContent += `${i + 1}. ${r.title}\n🔗 ${r.quark}\n\n`;
+      replyContent += `${i + 1}. ${r.title}\n${r.quark}\n\n`;
     });
   } else if (textContent === "帮助") {
-    replyContent = `音乐搜索机器人  命令： • 音乐 <歌名> - 搜索歌曲 • 下载 <歌名> - 下载歌曲  示例： • 音乐 林俊杰 • 音乐 绿色 陈雪凝`;
+    replyContent = `音乐搜索机器人\n\n音乐 <歌名> - 搜索歌曲\n下载 <歌名> - 下载歌曲\n\n例子:\n音乐 林俊杰\n音乐 绿色 陈雪凝`;
   } else {
-    replyContent = `收到:${textContent}  发送“帮助”查看使用说明 发送“音乐 <歌名>" 搜索歌曲`;
+    replyContent = `收到: ${textContent}\n\n发送 帮助 查看说明\n发送 音乐 <歌名> 搜索歌曲`;
   }
 
   await sendMessage(receiveIdType, receiveId, replyContent);
@@ -90,8 +90,8 @@ serve(async (req) => {
     return new Response(challenge, { headers: { "Content-Type": "text/plain" } });
   }
 
-  如果 (req.method === "POST") {
-    尝试 {
+  if (req.method === "POST") {
+    try {
       const body = await req.json();
       if (body.type === "url_verification") {
         return new Response(JSON.stringify({ challenge: body.challenge }), {
@@ -109,4 +109,4 @@ serve(async (req) => {
   return new Response("Method not allowed", { status: 405 });
 });
 
-console.log("🎵 飞书音乐机器人已启动");
+console.log("Music bot started");
