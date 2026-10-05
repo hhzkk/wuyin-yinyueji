@@ -7,4 +7,4 @@
 | MC光光&法老&艾热AIR&派克特&弹壳&ICE杨长青&Ghost (王琳凯)&袁娅维TIA RAY | [https://pan.baidu.com/s/1kdrbfrj9VdDrzTY6D-mibA?pwd=wx8g](https://pan.baidu.com/s/1kdrbfrj9VdDrzTY6D-mibA?pwd=wx8g) |
 
 ---
-<sub>本表仅提供分享链接信息，不存储、不分发音频内容；资源版权归原作者所有，请勿用于商业用途。</sub>
+<sub>本表仅提供分享链接信息，不存储、不分发音频内容；资源版权归原作者所有。</sub>

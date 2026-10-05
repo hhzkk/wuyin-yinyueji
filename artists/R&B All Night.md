@@ -8,4 +8,4 @@
 | 郑伟杰Nigel&王以太&王鲁飞&黄俊杰&唐西锐&赵家强 | [https://pan.baidu.com/s/1gQH552p4TGEjbSjmo-o7uw?pwd=wx8g](https://pan.baidu.com/s/1gQH552p4TGEjbSjmo-o7uw?pwd=wx8g) |
 
 ---
-<sub>本表仅提供分享链接信息，不存储、不分发音频内容；资源版权归原作者所有，请勿用于商业用途。</sub>
+<sub>本表仅提供分享链接信息，不存储、不分发音频内容；资源版权归原作者所有。</sub>

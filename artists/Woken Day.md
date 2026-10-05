@@ -7,4 +7,4 @@
 | 活死人&法老&杨和苏KeyNG&Buzzy&龙崎&JarStick&Pissy&隆历奇&小精灵 | [https://pan.baidu.com/s/1XsLr7UfJ3m6I5lZqYwHNiw?pwd=wx8g](https://pan.baidu.com/s/1XsLr7UfJ3m6I5lZqYwHNiw?pwd=wx8g) |
 
 ---
-<sub>本表仅提供分享链接信息，不存储、不分发音频内容；资源版权归原作者所有，请勿用于商业用途。</sub>
+<sub>本表仅提供分享链接信息，不存储、不分发音频内容；资源版权归原作者所有。</sub>

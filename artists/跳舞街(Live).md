@@ -7,4 +7,4 @@
 | 何炅方力申李昊黄子弘凡回春丹乐队周柏豪陈小春古巨基薛凯琪卫兰单依纯周笔畅容祖儿李宇春 | [https://pan.baidu.com/s/1ndSq9cAyvqYRBCOmkSB9qg?pwd=wx8g](https://pan.baidu.com/s/1ndSq9cAyvqYRBCOmkSB9qg?pwd=wx8g) |
 
 ---
-<sub>本表仅提供分享链接信息，不存储、不分发音频内容；资源版权归原作者所有，请勿用于商业用途。</sub>
+<sub>本表仅提供分享链接信息，不存储、不分发音频内容；资源版权归原作者所有。</sub>

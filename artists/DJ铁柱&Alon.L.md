@@ -12,4 +12,4 @@
 | 又到了遇见你的季节 (my legs my nose my back) | [https://pan.baidu.com/s/1Qx-XCDApymh-Q0nGm4BSfA?wx8g](https://pan.baidu.com/s/1Qx-XCDApymh-Q0nGm4BSfA?wx8g) |
 
 ---
-<sub>本表仅提供分享链接信息，不存储、不分发音频内容；资源版权归原作者所有，请勿用于商业用途。</sub>
+<sub>本表仅提供分享链接信息，不存储、不分发音频内容；资源版权归原作者所有。</sub>

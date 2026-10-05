@@ -8,4 +8,4 @@
 | 刘柏辛Lexie&单依纯&宋雨琦 (YUQI)&安崎&陆柯燃K&VaVa毛衍七&吴宣仪&Yamy郭颖&陈卓璇&周洁琼&爆裂舞台 | [https://pan.baidu.com/s/1hY7yxH5MukF8R1IABXKYvQ?pwd=wx8g](https://pan.baidu.com/s/1hY7yxH5MukF8R1IABXKYvQ?pwd=wx8g) |
 
 ---
-<sub>本表仅提供分享链接信息，不存储、不分发音频内容；资源版权归原作者所有，请勿用于商业用途。</sub>
+<sub>本表仅提供分享链接信息，不存储、不分发音频内容；资源版权归原作者所有。</sub>

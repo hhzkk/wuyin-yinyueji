@@ -7,4 +7,4 @@
 | 赵磊&毛不易&马伯骞Victor Ma&周震南&廖俊涛&傻子与白痴&翟潇闻&张洢豪&田鸿杰&张嘉元&蒋先贵&庄主恒&原野&朱衍丞&ADD男团&黄盼盼&朱珞宁&周皓崎 | [https://pan.baidu.com/s/1WZ187bHSdmlNPKs8GgiBSA?pwd=wx8g](https://pan.baidu.com/s/1WZ187bHSdmlNPKs8GgiBSA?pwd=wx8g) |
 
 ---
-<sub>本表仅提供分享链接信息，不存储、不分发音频内容；资源版权归原作者所有，请勿用于商业用途。</sub>
+<sub>本表仅提供分享链接信息，不存储、不分发音频内容；资源版权归原作者所有。</sub>

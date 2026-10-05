@@ -7,4 +7,4 @@
 | ANTIFRAGILE.wav（翻自 H_Joy洁） | [https://pan.baidu.com/s/1t2AT54u6Qyqjq1Xo69-5Vw?pwd=wx8g](https://pan.baidu.com/s/1t2AT54u6Qyqjq1Xo69-5Vw?pwd=wx8g) |
 
 ---
-<sub>本表仅提供分享链接信息，不存储、不分发音频内容；资源版权归原作者所有，请勿用于商业用途。</sub>
+<sub>本表仅提供分享链接信息，不存储、不分发音频内容；资源版权归原作者所有。</sub>

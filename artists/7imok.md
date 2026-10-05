@@ -8,4 +8,4 @@
 | 可不可以认识你一下(给我你的微信) | [https://pan.baidu.com/s/1mEg0vhOSh8Odc3XSO0w9Hg?wx8g](https://pan.baidu.com/s/1mEg0vhOSh8Odc3XSO0w9Hg?wx8g) |
 
 ---
-<sub>本表仅提供分享链接信息，不存储、不分发音频内容；资源版权归原作者所有，请勿用于商业用途。</sub>
+<sub>本表仅提供分享链接信息，不存储、不分发音频内容；资源版权归原作者所有。</sub>
