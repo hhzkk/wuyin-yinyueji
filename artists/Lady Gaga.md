@@ -1,12 +1,15 @@
-# Lady Gaga 无损歌曲资源（3 首）
+# Lady Gaga 无损歌曲资源（6 首）
 
-> 全部为 FLAC/MP3 无损资源，提取码 **wx8g**。复制链接到百度网盘 App 打开即可转存。
+> FLAC / MP3 无损资源，提取码 **wx8g**。复制链接到百度网盘 App 打开即可转存。
 
 | 歌名 | 分享链接 |
 |---|---|
 | Rain On Me | [https://pan.baidu.com/s/1pSHiRnd_jyNE7FLWqBCL3A?pwd=wx8g](https://pan.baidu.com/s/1pSHiRnd_jyNE7FLWqBCL3A?pwd=wx8g) |
 | Sour Candy | [https://pan.baidu.com/s/1vxiaXST9W-FSyLuPUn8flw?pwd=wx8g](https://pan.baidu.com/s/1vxiaXST9W-FSyLuPUn8flw?pwd=wx8g) |
 | Die With A Smile | [https://pan.baidu.com/s/1ec_8RkUr1NWKtwRTioaFmw?pwd=wx8g](https://pan.baidu.com/s/1ec_8RkUr1NWKtwRTioaFmw?pwd=wx8g) |
+| Poker Face | [https://pan.baidu.com/s/1DLNHe05yqapuSgEgNvg9Mw?pwd=wx8g](https://pan.baidu.com/s/1DLNHe05yqapuSgEgNvg9Mw?pwd=wx8g) |
+| Telephone | [https://pan.baidu.com/s/1gF02y7YKHPyTEsdaLFYXLg?pwd=wx8g](https://pan.baidu.com/s/1gF02y7YKHPyTEsdaLFYXLg?pwd=wx8g) |
+| The Cure | [https://pan.baidu.com/s/1OhR3mpv8Wfz-STukMZ18ew?pwd=wx8g](https://pan.baidu.com/s/1OhR3mpv8Wfz-STukMZ18ew?pwd=wx8g) |
 
 ---
 <sub>本表仅提供分享链接信息，不存储、不分发音频内容；资源版权归原作者所有，请勿用于商业用途。</sub>

@@ -1,0 +1,15 @@
+# DJ铁柱&Alon.L 无损歌曲资源（6 首）
+
+> FLAC / MP3 无损资源，提取码 **wx8g**。复制链接到百度网盘 App 打开即可转存。
+
+| 歌名 | 分享链接 |
+|---|---|
+| Uncover (熊出没大励志时代) | [https://pan.baidu.com/s/1WAeFVqxS2k-RMNi1VnehmA?wx8g](https://pan.baidu.com/s/1WAeFVqxS2k-RMNi1VnehmA?wx8g) |
+| Uncover (熊出没大励志时代) | [https://pan.baidu.com/s/1EBhzus8BVu2oJLxe1pKvxA?wx8g](https://pan.baidu.com/s/1EBhzus8BVu2oJLxe1pKvxA?wx8g) |
+| 刚认识你的时候 我以为我中奖了 (see oh we oh we yeah) | [https://pan.baidu.com/s/1t-sAs_tIqwxT9PknAS_LSQ?wx8g](https://pan.baidu.com/s/1t-sAs_tIqwxT9PknAS_LSQ?wx8g) |
+| 刚认识你的时候 我以为我中奖了 (see oh we oh we yeah) | [https://pan.baidu.com/s/1YOJKvJvcpgkTjnfpnSosqg?wx8g](https://pan.baidu.com/s/1YOJKvJvcpgkTjnfpnSosqg?wx8g) |
+| 又到了遇见你的季节 (my legs my nose my back) | [https://pan.baidu.com/s/1oxee1291sxojYI9PqkYu0w?wx8g](https://pan.baidu.com/s/1oxee1291sxojYI9PqkYu0w?wx8g) |
+| 又到了遇见你的季节 (my legs my nose my back) | [https://pan.baidu.com/s/1Qx-XCDApymh-Q0nGm4BSfA?wx8g](https://pan.baidu.com/s/1Qx-XCDApymh-Q0nGm4BSfA?wx8g) |
+
+---
+<sub>本表仅提供分享链接信息，不存储、不分发音频内容；资源版权归原作者所有，请勿用于商业用途。</sub>

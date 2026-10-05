@@ -1,0 +1,14 @@
+# Project DMM 无损歌曲资源（5 首）
+
+> FLAC / MP3 无损资源，提取码 **wx8g**。复制链接到百度网盘 App 打开即可转存。
+
+| 歌名 | 分享链接 |
+|---|---|
+| ウルトラマンコスモス~君にできるなにか | [https://pan.baidu.com/s/1-3bTdeMc5YbbO25K_Dg8WA?pwd=wx8g](https://pan.baidu.com/s/1-3bTdeMc5YbbO25K_Dg8WA?pwd=wx8g) |
+| ウルトラマンメビウス (梦比优斯奥特曼) | [https://pan.baidu.com/s/1kkOXnXMBP9IR-cpMPAx_3A?pwd=wx8g](https://pan.baidu.com/s/1kkOXnXMBP9IR-cpMPAx_3A?pwd=wx8g) |
+| ウルトラ六兄弟 | [https://pan.baidu.com/s/1V474qWAh_h0_sPFZrIR8tQ?pwd=wx8g](https://pan.baidu.com/s/1V474qWAh_h0_sPFZrIR8tQ?pwd=wx8g) |
+| Spirit (1) | [https://pan.baidu.com/s/15O7_IARIWJNPJRixzZeXbg?pwd=wx8g](https://pan.baidu.com/s/15O7_IARIWJNPJRixzZeXbg?pwd=wx8g) |
+| Spirit | [https://pan.baidu.com/s/1j17IvVxVDTDaKCga9tXJgA?pwd=wx8g](https://pan.baidu.com/s/1j17IvVxVDTDaKCga9tXJgA?pwd=wx8g) |
+
+---
+<sub>本表仅提供分享链接信息，不存储、不分发音频内容；资源版权归原作者所有，请勿用于商业用途。</sub>

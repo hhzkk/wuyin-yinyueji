@@ -1,9 +1,14 @@
-# aespa 无损歌曲资源（61 首）
+# aespa 无损歌曲资源（69 首）
 
-> 全部为 FLAC/MP3 无损资源，提取码 **wx8g**。复制链接到百度网盘 App 打开即可转存。
+> FLAC / MP3 无损资源，提取码 **wx8g**。复制链接到百度网盘 App 打开即可转存。
 
 | 歌名 | 分享链接 |
 |---|---|
+| BYEB4HELLO (GISELLE Solo) | [https://pan.baidu.com/s/1AE66Eq3KlbWOMJvGID38pg?pwd=wx8g](https://pan.baidu.com/s/1AE66Eq3KlbWOMJvGID38pg?pwd=wx8g) |
+| I Love You But I Gotta Let You Go (NINGNING Solo) | [https://pan.baidu.com/s/18OD6Qqhzpa78HAC7nUbubA?pwd=wx8g](https://pan.baidu.com/s/18OD6Qqhzpa78HAC7nUbubA?pwd=wx8g) |
+| Saddle Up (WINTER Solo) | [https://pan.baidu.com/s/1KGRVHfg36fsbJlr8pDGLHw?pwd=wx8g](https://pan.baidu.com/s/1KGRVHfg36fsbJlr8pDGLHw?pwd=wx8g) |
+| 16 Bit (KARINA Solo) | [https://pan.baidu.com/s/1MNP9s_9RgatrWZIu7ORiag?pwd=wx8g](https://pan.baidu.com/s/1MNP9s_9RgatrWZIu7ORiag?pwd=wx8g) |
+| Whiplash | [https://pan.baidu.com/s/1mAVefjdqFnL1D-Yn922gfw?pwd=wx8g](https://pan.baidu.com/s/1mAVefjdqFnL1D-Yn922gfw?pwd=wx8g) |
 | KISS N TELL | [https://pan.baidu.com/s/1nD3iim9lG7eTdP0D5uEIkg?pwd=wx8g](https://pan.baidu.com/s/1nD3iim9lG7eTdP0D5uEIkg?pwd=wx8g) |
 | 'Til We Meet Again | [https://pan.baidu.com/s/1kpHOvWo4n0vXgURgSnQzmA?pwd=wx8g](https://pan.baidu.com/s/1kpHOvWo4n0vXgURgSnQzmA?pwd=wx8g) |
 | Armageddon (Mount XLR Remix) | [https://pan.baidu.com/s/1CckFO9m7KwGw1aBKOPSaYw?pwd=wx8g](https://pan.baidu.com/s/1CckFO9m7KwGw1aBKOPSaYw?pwd=wx8g) |
@@ -35,13 +40,14 @@
 | ICU (避风港) | [https://pan.baidu.com/s/1hqBS2LjweZFfzTJLEKUp0w?pwd=wx8g](https://pan.baidu.com/s/1hqBS2LjweZFfzTJLEKUp0w?pwd=wx8g) |
 | Jingle Bell Rock | [https://pan.baidu.com/s/11T6AO3TE8XmoKB2_Sg6OjQ?pwd=wx8g](https://pan.baidu.com/s/11T6AO3TE8XmoKB2_Sg6OjQ?pwd=wx8g) |
 | Just Another Girl | [https://pan.baidu.com/s/1jE4JNuXtxE-kLi9WuaixGg?pwd=wx8g](https://pan.baidu.com/s/1jE4JNuXtxE-kLi9WuaixGg?pwd=wx8g) |
-| Keychain (Inspired by the Original Motion Picture K-POPS!) | [https://pan.baidu.com/s/1Q1c7jFraFIsOwhMjSaxIUA?pwd=wx8g](https://pan.baidu.com/s/1Q1c7jFraFIsOwhMjSaxIUA?pwd=wx8g) |
+| Keychain (Inspired by the Original Motion Picture K - POPS!) | [https://pan.baidu.com/s/1Q1c7jFraFIsOwhMjSaxIUA?pwd=wx8g](https://pan.baidu.com/s/1Q1c7jFraFIsOwhMjSaxIUA?pwd=wx8g) |
 | Kill It | [https://pan.baidu.com/s/1o0ypvvHnxhkIypdmn9yYgQ?pwd=wx8g](https://pan.baidu.com/s/1o0ypvvHnxhkIypdmn9yYgQ?pwd=wx8g) |
 | Licorice | [https://pan.baidu.com/s/1VICU-bU7vlK3aw-4GnMj6g?pwd=wx8g](https://pan.baidu.com/s/1VICU-bU7vlK3aw-4GnMj6g?pwd=wx8g) |
 | Life's Too Short (English Ver.) | [https://pan.baidu.com/s/1hIAQz28pWZWTtge6R1tjnw?pwd=wx8g](https://pan.baidu.com/s/1hIAQz28pWZWTtge6R1tjnw?pwd=wx8g) |
 | Lingo | [https://pan.baidu.com/s/1nwN_9OmxsGY94FY0pWx5nw?pwd=wx8g](https://pan.baidu.com/s/1nwN_9OmxsGY94FY0pWx5nw?pwd=wx8g) |
 | Live My Life | [https://pan.baidu.com/s/1xIV4eH4UJd-ZgKfyFzClkQ?pwd=wx8g](https://pan.baidu.com/s/1xIV4eH4UJd-ZgKfyFzClkQ?pwd=wx8g) |
 | Long Chat (#♥) | [https://pan.baidu.com/s/1Eb75D7ui0djt7zfNGk5V9Q?pwd=wx8g](https://pan.baidu.com/s/1Eb75D7ui0djt7zfNGk5V9Q?pwd=wx8g) |
+| Mine | [https://pan.baidu.com/s/1gTBDDPjn5RLDvIKVPyNnsw?pwd=wx8g](https://pan.baidu.com/s/1gTBDDPjn5RLDvIKVPyNnsw?pwd=wx8g) |
 | Next Level | [https://pan.baidu.com/s/1nwdqT3gEtU6F08_LTQ8E6w?pwd=wx8g](https://pan.baidu.com/s/1nwdqT3gEtU6F08_LTQ8E6w?pwd=wx8g) |
 | Pink Hoodie | [https://pan.baidu.com/s/1FG4_RNeLEgVOLvc7bRpsXw?pwd=wx8g](https://pan.baidu.com/s/1FG4_RNeLEgVOLvc7bRpsXw?pwd=wx8g) |
 | Prologue | [https://pan.baidu.com/s/1lXTnbKwFb-Qqp0LqgxQ90g?pwd=wx8g](https://pan.baidu.com/s/1lXTnbKwFb-Qqp0LqgxQ90g?pwd=wx8g) |
@@ -62,9 +68,11 @@
 | Welcome To MY World (Feat. nævis) | [https://pan.baidu.com/s/1qyz3t1ukHCTnJ1H-Sr_IGQ?pwd=wx8g](https://pan.baidu.com/s/1qyz3t1ukHCTnJ1H-Sr_IGQ?pwd=wx8g) |
 | Whiplash (monotostereo Remix) | [https://pan.baidu.com/s/1Aaw8vClbBK11E8su7AehHg?pwd=wx8g](https://pan.baidu.com/s/1Aaw8vClbBK11E8su7AehHg?pwd=wx8g) |
 | YEPPI YEPPI | [https://pan.baidu.com/s/1v_e5EU1f1b55Z3H296SXFw?pwd=wx8g](https://pan.baidu.com/s/1v_e5EU1f1b55Z3H296SXFw?pwd=wx8g) |
+| YOLO | [https://pan.baidu.com/s/1H6BySt84OSSQg1j05yqWCg?pwd=wx8g](https://pan.baidu.com/s/1H6BySt84OSSQg1j05yqWCg?pwd=wx8g) |
 | ZOOM ZOOM | [https://pan.baidu.com/s/1MmikDYmoypFFqMymad9mmw?pwd=wx8g](https://pan.baidu.com/s/1MmikDYmoypFFqMymad9mmw?pwd=wx8g) |
 | 声音 (Melody) | [https://pan.baidu.com/s/1_Wvj8xA_hElG_hiq-whltA?pwd=wx8g](https://pan.baidu.com/s/1_Wvj8xA_hElG_hiq-whltA?pwd=wx8g) |
 | 怪火 (Illusion) | [https://pan.baidu.com/s/1gk9cfAPHHNQgYYn9QVzbUw?pwd=wx8g](https://pan.baidu.com/s/1gk9cfAPHHNQgYYn9QVzbUw?pwd=wx8g) |
+| LEMONADE | [https://pan.baidu.com/s/1_Gjpwxilr6mXXCNRkAVhUQ?pwd=wx8g](https://pan.baidu.com/s/1_Gjpwxilr6mXXCNRkAVhUQ?pwd=wx8g) |
 
 ---
 <sub>本表仅提供分享链接信息，不存储、不分发音频内容；资源版权归原作者所有，请勿用于商业用途。</sub>

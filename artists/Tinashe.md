@@ -1,10 +1,12 @@
-# Tinashe 无损歌曲资源（1 首）
+# Tinashe 无损歌曲资源（3 首）
 
-> 全部为 FLAC/MP3 无损资源，提取码 **wx8g**。复制链接到百度网盘 App 打开即可转存。
+> FLAC / MP3 无损资源，提取码 **wx8g**。复制链接到百度网盘 App 打开即可转存。
 
 | 歌名 | 分享链接 |
 |---|---|
+| Pillow Fight | [https://pan.baidu.com/s/1r7BKYgBcwYZmY9u7lAFMNw?pwd=wx8g](https://pan.baidu.com/s/1r7BKYgBcwYZmY9u7lAFMNw?pwd=wx8g) |
 | I’d Rather Be Alone | [https://pan.baidu.com/s/1PdBAGQXYTBSgVJBfJjpXhQ?pwd=wx8g](https://pan.baidu.com/s/1PdBAGQXYTBSgVJBfJjpXhQ?pwd=wx8g) |
+| Melatonin | [https://pan.baidu.com/s/1B9mg_jBtuRoqRxpTmx874w?pwd=wx8g](https://pan.baidu.com/s/1B9mg_jBtuRoqRxpTmx874w?pwd=wx8g) |
 
 ---
 <sub>本表仅提供分享链接信息，不存储、不分发音频内容；资源版权归原作者所有，请勿用于商业用途。</sub>

@@ -1,10 +1,12 @@
-# Alan Walker 无损歌曲资源（2 首）
+# Alan Walker 无损歌曲资源（4 首）
 
-> 全部为 FLAC/MP3 无损资源，提取码 **wx8g**。复制链接到百度网盘 App 打开即可转存。
+> FLAC / MP3 无损资源，提取码 **wx8g**。复制链接到百度网盘 App 打开即可转存。
 
 | 歌名 | 分享链接 |
 |---|---|
-| Fire! (feat. YUQI ((G)I-DLE), JVKE) | [https://pan.baidu.com/s/11mZ_u7RTQGhuWM6nv-1mag?pwd=wx8g](https://pan.baidu.com/s/11mZ_u7RTQGhuWM6nv-1mag?pwd=wx8g) |
+| Faded | [https://pan.baidu.com/s/1YvtPtfTJf_7s3qmFyajJuQ?pwd=wx8g](https://pan.baidu.com/s/1YvtPtfTJf_7s3qmFyajJuQ?pwd=wx8g) |
+| The Spectre | [https://pan.baidu.com/s/19OznvhHq7sPRptFjoj3AMA?pwd=wx8g](https://pan.baidu.com/s/19OznvhHq7sPRptFjoj3AMA?pwd=wx8g) |
+| Fire! (feat. YUQI ((G)I - DLE), JVKE) | [https://pan.baidu.com/s/11mZ_u7RTQGhuWM6nv-1mag?pwd=wx8g](https://pan.baidu.com/s/11mZ_u7RTQGhuWM6nv-1mag?pwd=wx8g) |
 | All Falls Down | [https://pan.baidu.com/s/1HZxIzlyjXocHFyvsBI5ptQ?pwd=wx8g](https://pan.baidu.com/s/1HZxIzlyjXocHFyvsBI5ptQ?pwd=wx8g) |
 
 ---

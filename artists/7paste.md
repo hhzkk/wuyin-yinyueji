@@ -1,9 +1,10 @@
-# 7paste 无损歌曲资源（2 首）
+# 7paste 无损歌曲资源（3 首）
 
-> 全部为 FLAC/MP3 无损资源，提取码 **wx8g**。复制链接到百度网盘 App 打开即可转存。
+> FLAC / MP3 无损资源，提取码 **wx8g**。复制链接到百度网盘 App 打开即可转存。
 
 | 歌名 | 分享链接 |
 |---|---|
+| 总有风把你吹向远方 | [https://pan.baidu.com/s/18sQ9OiPh_YeiPmDHtyxF3Q?pwd=wx8g](https://pan.baidu.com/s/18sQ9OiPh_YeiPmDHtyxF3Q?pwd=wx8g) |
 | 或许(露天音乐会live版) | [https://pan.baidu.com/s/1u6CUm4EHnoumqLQvVVKe7Q?pwd=wx8g](https://pan.baidu.com/s/1u6CUm4EHnoumqLQvVVKe7Q?pwd=wx8g) |
 | 中意你(live万人大合唱现场版) | [https://pan.baidu.com/s/1ADbM_hj14Jm8ZEv0Drzhrw?pwd=wx8g](https://pan.baidu.com/s/1ADbM_hj14Jm8ZEv0Drzhrw?pwd=wx8g) |
 

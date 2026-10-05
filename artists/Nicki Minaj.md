@@ -1,9 +1,10 @@
-# Nicki Minaj 无损歌曲资源（1 首）
+# Nicki Minaj 无损歌曲资源（2 首）
 
-> 全部为 FLAC/MP3 无损资源，提取码 **wx8g**。复制链接到百度网盘 App 打开即可转存。
+> FLAC / MP3 无损资源，提取码 **wx8g**。复制链接到百度网盘 App 打开即可转存。
 
 | 歌名 | 分享链接 |
 |---|---|
+| Bed | [https://pan.baidu.com/s/1UCrk91jrwFFv6wLzJUB0MA?pwd=wx8g](https://pan.baidu.com/s/1UCrk91jrwFFv6wLzJUB0MA?pwd=wx8g) |
 | Get On Your Knees | [https://pan.baidu.com/s/1TDp3KyzDeeGKHqB0DgYLfA?pwd=wx8g](https://pan.baidu.com/s/1TDp3KyzDeeGKHqB0DgYLfA?pwd=wx8g) |
 
 ---

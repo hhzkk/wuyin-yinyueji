@@ -1,9 +1,10 @@
-# 童话(Live) 无损歌曲资源（3 首）
+# 童话(Live) 无损歌曲资源（4 首）
 
-> 全部为 FLAC/MP3 无损资源，提取码 **wx8g**。复制链接到百度网盘 App 打开即可转存。
+> FLAC / MP3 无损资源，提取码 **wx8g**。复制链接到百度网盘 App 打开即可转存。
 
 | 歌名 | 分享链接 |
 |---|---|
+| 光良陈卓璇 | [https://pan.baidu.com/s/16m0LQmp3tP11UEHufxAoFg?pwd=wx8g](https://pan.baidu.com/s/16m0LQmp3tP11UEHufxAoFg?pwd=wx8g) |
 | 光良刘若英五月天 | [https://pan.baidu.com/s/1V-b8IiSmusXevEUUYbcNoQ?pwd=wx8g](https://pan.baidu.com/s/1V-b8IiSmusXevEUUYbcNoQ?pwd=wx8g) |
 | 光良任佳鑫王予安王程 | [https://pan.baidu.com/s/1zI5eDEVBk_iJnVMXR3UN2g?pwd=wx8g](https://pan.baidu.com/s/1zI5eDEVBk_iJnVMXR3UN2g?pwd=wx8g) |
 | 光良张潮威王蓝雪易浩 | [https://pan.baidu.com/s/1XAjId4kGmCr88eBzBd0OIw?pwd=wx8g](https://pan.baidu.com/s/1XAjId4kGmCr88eBzBd0OIw?pwd=wx8g) |
